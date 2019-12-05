@@ -1,0 +1,67 @@
+[
+    {   
+        "nome": "db1",
+        "comentário": "muito bom",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 5,
+        "título": "muito bom gostei muito"
+        
+    },
+
+    {
+        "nome": "db2",
+        "comentário": "muito bom",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 5,
+        "título": "muito bom gostei muito"
+    },
+
+    {
+        "nome": "db3",
+        "comentário": "muito bom",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 5,
+        "título": "muito bom gostei muito"
+    },
+
+    {
+        "nome": "db4",
+        "comentário": "muito bom",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 5,
+        "título": "muito bom gostei muito"
+    },
+
+    {
+        "nome": "db5",
+        "comentário": "muito bom",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 5,
+        "título": "muito bom gostei muito"
+    },
+
+    {
+        "nome": "db6",
+        "comentário": "muito bom",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 5,
+        "título": "muito bom gostei muito"
+    },
+
+    {
+        "nome": "Pedro",
+        "comentário": "Esse comentário vai aparecer quando o usuário estiver escrevendo um comentário",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 4,
+        "título": "Digitando"
+    },
+
+    {
+        "nome": "João",
+        "comentário": "Esse comentário vai aparecer quando o usuário acessar a página pela segunda vez",
+        "data": "9:51 de 20/11/2019",
+        "avaliação": 4,
+        "título": "visita"
+    }
+
+]
